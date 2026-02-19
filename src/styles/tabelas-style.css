@@ -1,3 +1,7 @@
+/*
+9. Aplique a propriedade font-family com o valor 'Arial', sans-serif para que o texto das células seja exibido em uma fonte Arial.
+*/
+
 body{
     display: flex;
     height: 100vh;
