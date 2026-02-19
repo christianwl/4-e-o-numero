@@ -40,9 +40,11 @@ O projeto se inicia na página principal responsiva, com 4 opções na qual voc�
    ![Responsividade1](https://github.com/Christian-Rui/4-e-o-numero/assets/113655013/c0dd7505-911e-491f-828c-7775e1402280)
    ![Responsividade2](https://github.com/Christian-Rui/4-e-o-numero/assets/113655013/a85a9a42-6758-49b7-bbf7-9f6335619c0c)
 
+<!--
 ### Resultado final
 
 ![Video da responsividade final](https://github.com/Christian-Rui/4-e-o-numero/assets/113655013/906e637c-b5f3-4bd8-ac4e-c032d02b03b8)
+-->
 
 ---
 
@@ -52,8 +54,6 @@ O projeto se inicia na página principal responsiva, com 4 opções na qual voc�
 ### Resultado final
 
 ![Página com tabelas](https://github.com/Christian-Rui/4-e-o-numero/assets/113655013/3c2f21c8-1b9d-4dfc-aed3-bc77e60c6c96)
-
-
 
 ## 📁 Acesso ao projeto
 
